@@ -38,7 +38,7 @@ public class vista  extends JFrame{
         tbd.addTab("CONSULTAS PROYECTO CONSTRUCCIÓN", panel1);
 
         JPanel panelEntrada = new JPanel();
-        panelEntrada.add(new JLabel("REQUERIMIENTO: "));
+        panelEntrada.add(new JLabel("REQUERIMIENTO "));
 
         JButton btnConsulta = new JButton("Consulta 1");
         JButton btnConsulta2 = new JButton("Consulta 2");
